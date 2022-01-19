@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Megan
+- 👋 Hi, I’m Sohee
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate with others
